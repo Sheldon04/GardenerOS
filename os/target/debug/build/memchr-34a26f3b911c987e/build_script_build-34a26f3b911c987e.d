@@ -1,5 +1,0 @@
-/root/GardenerOS/os/target/debug/build/memchr-34a26f3b911c987e/build_script_build-34a26f3b911c987e: /root/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/memchr-2.4.1/build.rs
-
-/root/GardenerOS/os/target/debug/build/memchr-34a26f3b911c987e/build_script_build-34a26f3b911c987e.d: /root/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/memchr-2.4.1/build.rs
-
-/root/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/memchr-2.4.1/build.rs:
